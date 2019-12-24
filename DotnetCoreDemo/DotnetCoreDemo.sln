@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNC.Application", "DNC.Application", "{90D43FC7-9288-4923-A935-7BF63BA835B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNC.Domain", "DNC.Domain", "{FCF428ED-49B8-4E8B-B4F8-0B1139D12726}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNC.Infra.Data", "DNC.Infra.Data", "{70A53212-E6A2-4950-B5CA-930EB86C6BE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNC.Infra.IoC", "DNC.Infra.IoC", "{7D451574-B9B1-4D11-A87E-1B1A24248588}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DNC.UI.Mvc", "DNC.UI.Mvc", "{27BEDC57-BE32-4E9F-9B68-125B0796B885}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
